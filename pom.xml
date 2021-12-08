@@ -19,7 +19,7 @@
         <module>Images-v1_11_R1</module>
         <module>Images-v1_15_R1</module>
         <module>Images-v1_16_R2</module>
-        <module>Images-v1_16_R3</module>
+       <!-- <module>Images-v1_16_R3</module>-->
         <module>Images-v1_17_R1</module>
         <module>Images-v1_18_R1</module>
     </modules>
@@ -32,7 +32,7 @@
     <repositories>
         <repository>
             <id>spigotmc-repo</id>
-            <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
+            <url>http://maven.elmakers.com/repository/</url>
         </repository>
         <repository>
             <id>sonatype</id>
